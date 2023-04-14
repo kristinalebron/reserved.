@@ -1,0 +1,111 @@
+.nav-bar {
+    background-color: #cac3e5;
+    color: #fff;
+    font-family: "Dosis";
+    font-weight: 400;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-family: "Dosis";
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.nav-link {
+    color: #fff;
+    font-family: "Dosis";
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.profile-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    margin-bottom: 15px;
+}
+
+.d-flex {
+    margin-right: 25px;
+}
+
+.popular-container {
+    background-color: #cac3e5;
+    align-self: center;
+    color: #fff;
+    font-family: "Dosis";
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+.categories-container {
+    background-color: #FAF9F6;
+    align-self: center;
+    color: #000;
+    font-family: "Dosis";
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+.favorites-container {
+    background-color: #cac3e5;
+    align-self: center;
+    color: #fff;
+    font-family: "Dosis";
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+.carousel-inner img {
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+.carousel-img {
+    width: 50%;
+    height: 50%;
+}
+
+.reservation-container {
+    background-color: #FAF9F6;
+    align-self: center;
+    color: #000;
+    font-family: "Dosis";
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+.restaurant-img {
+    width: 300px;
+    height: 200px;
+    padding-bottom: 10px;
+}
+
+.restaurant-column {
+    padding: 3% 2%;
+    text-align: center;
+}
+
+.footer-container {
+    background-color: #cac3e5;
+    align-self: center;
+    color: #fff;
+    font-family: "Dosis";
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    padding: 1% 0;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
